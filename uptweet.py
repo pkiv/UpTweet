@@ -17,8 +17,6 @@ import uptime
 # Gives a human-readable uptime string
 def readableUptime():
         total_seconds = uptime.uptime()
-def readableUptime():
-        total_seconds = uptime.uptime()
         # Vars
         MINUTE  = 60
         HOUR    = MINUTE * 60
